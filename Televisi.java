@@ -1,12 +1,12 @@
 public class Televisi {
     public String merk;
-    public int ukuranlayar;
+    public int ukuranLayar;
     public int volume;
     public int channel;
 
     public void displayInfo() {
         System.out.println("Merk: " + merk);
-        System.out.println("Ukuran: " + ukuranlayar + " inch");
+        System.out.println("Ukuran: " + ukuranLayar + " inch");
         System.out.println("Volume saat ini: " + volume);
         System.out.println("Channel saat ini: " + channel);
     }

@@ -1,4 +1,4 @@
-public class Mahasiswa {
+public class MahasiswaDemo {
     public static void main(String[] args) {
         Mahasiswa m1 = new Mahasiswa();
         m1.nim = "023432";
